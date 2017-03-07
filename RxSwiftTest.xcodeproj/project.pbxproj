@@ -299,6 +299,7 @@
 				ED2A7F881E6E5DB0008A2B95 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
