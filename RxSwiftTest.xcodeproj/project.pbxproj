@@ -47,6 +47,7 @@
 		ED2A7FCB1E6E6089008A2B95 /* RxCocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = RxCocoa.framework; path = Carthage/Build/iOS/RxCocoa.framework; sourceTree = "<group>"; };
 		ED2A7FCC1E6E6089008A2B95 /* RxOptional.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = RxOptional.framework; path = Carthage/Build/iOS/RxOptional.framework; sourceTree = "<group>"; };
 		ED2A7FCD1E6E6089008A2B95 /* RxSwift.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = RxSwift.framework; path = Carthage/Build/iOS/RxSwift.framework; sourceTree = "<group>"; };
+		ED2A7FD51E6E6FA0008A2B95 /* Playground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Playground.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +88,7 @@
 			children = (
 				ED2A7F771E6E5DB0008A2B95 /* AppDelegate.swift */,
 				ED2A7F791E6E5DB0008A2B95 /* ViewController.swift */,
+				ED2A7FD51E6E6FA0008A2B95 /* Playground.playground */,
 				ED2A7F7B1E6E5DB0008A2B95 /* Main.storyboard */,
 				ED2A7F7E1E6E5DB0008A2B95 /* Assets.xcassets */,
 				ED2A7F801E6E5DB0008A2B95 /* LaunchScreen.storyboard */,

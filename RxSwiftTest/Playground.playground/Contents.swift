@@ -1,7 +1,7 @@
 //: Playground - noun: a place where people can play
 
 import UIKit
-import PlaygroundSupport
+import RxSwift
 
 var str = "Hello, playground"
 print(str)
